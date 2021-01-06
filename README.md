@@ -38,12 +38,12 @@ Burn Rate: The value we need to predict for each employee telling the rate of Bu
 
 - 1 jupyter notebook to showcase work related to the above questions. Markdown cells were used to assist in walking through the thought process for individual steps.  
 - 3 data files (train, test, clean_df_train)
-- 1 `.py` file for interactive scenario analysis with ActiveGraf through excel. I use xlwings library and VBA to run Python script from a Power Point presentation file (license is necessary for ActiveGraf, see my presentation at the post [here](https://medium.com/...)
+- 1 `.py` file for interactive scenario analysis with ActiveGraf through excel. I use xlwings library and VBA to run Python script from a Power Point presentation file (license is necessary for ActiveGraf, see my presentation at the post [here](https://medium.com/@bernadett.kepenyes/your-highest-cost-employee-burn-out-7667cb0d5763)
 - 1 `.actg` file. It is a special ActiveGraf zip file that contains the excel and powerpoint files for interactive scenario analysis.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/...).
+The main findings of the code can be found at the post available [here](https://medium.com/@bernadett.kepenyes/your-highest-cost-employee-burn-out-7667cb0d5763).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
