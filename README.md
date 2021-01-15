@@ -43,8 +43,8 @@ Questions to be answered:
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@bernadett.kepenyes/your-highest-cost-employee-burn-out-7667cb0d5763).
-Video of the Usage of Interactive Scenario Anaylsis Dashboard [here](https://www.youtube.com/watch?v=pXh80liczFo).
+- The main findings of the code can be found at the post available [here](https://medium.com/@bernadett.kepenyes/your-highest-cost-employee-burn-out-7667cb0d5763).
+- Video of the Usage of Interactive Scenario Analysis Dashboard [here](https://www.youtube.com/watch?v=pXh80liczFo).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
