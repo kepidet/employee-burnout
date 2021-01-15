@@ -4,7 +4,15 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 import xlwings as xw 
 
+# Code for Interactive decision-making dashboard
+
 def main():
+
+    '''
+    Input: Imported Data from Excel sheet cells
+    Scenario calculation: Rewrite the dataset with the new input
+    Output: Result of new prediction
+    '''
 
     # ----> SCENARIO ANALYSIS <----
     # let's connect python with excel through xlwings in order to connect the data with ActiveGraf, an interactive scenario analysis tool
