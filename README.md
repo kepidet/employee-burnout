@@ -16,9 +16,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I used HackerEarth data to better understand the factors that leads to employee fatigue [here](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-burnout-rate/). The task was to understand and observe the mental health of all the employees in the company by predicting the burn rate of employees based on the provided features. Prediction of the employee burn rate is based on factors such as WFH setup, resources, mental fatigue score.
 
 Questions to be answered:
-- What aspects correlate well to burn rate?
-- How remote work affect burn rate?
-- How well can we predict an individual's burn rate? 
+- What aspects correlate well to burnout rate?
+- How does remote work affect burnout rate?
+- How well can we predict an individual's burnout rate? 
 - +1 What are the costs of work related stress at the organizational level? 
 
 ## Dataset<a name="dataset"></a>
