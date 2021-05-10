@@ -43,13 +43,13 @@ def main():
     lm_model = LinearRegression(normalize=True)
     lm_model.fit(X_train, y_train)
 
-    y_preds = lm_model.predict(X_train)
+    y_preds = lm_model.predict(X_test)
     mean = y_preds.mean()
 
     X_test = df_copy[['Gender','Company Type','WFH Setup Available','Designation','Resource Allocation','Mental Fatigue Score','days_count']]
     X_test_train, X_test_test, y_test_train, y_test_test = train_test_split(X_test, y, test_size=0.2, random_state=42)
 
-    y_preds_test = lm_model.predict(X_test_train)
+    y_preds_test = lm_model.predict(X_test_test)
     mean_test = y_preds_test.mean()
 
     # Return the output to excel
